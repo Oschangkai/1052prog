@@ -25,3 +25,7 @@ int main() {
 	system("pause");
 	return 0;
 }
+
+/* Output -----------------------
+name: The C++ Bible index: -1
+------------------------------ */
